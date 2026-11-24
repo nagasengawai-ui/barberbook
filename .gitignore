@@ -24,3 +24,6 @@ server/uploads/
 
 .DS_Store
 Thumbs.db
+
+server/private-payments/
+server/uploads/
